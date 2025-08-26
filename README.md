@@ -1,16 +1,33 @@
-## Hi there 👋
+# Felix I. Flores
 
-<!--
-**florro68/florro68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Photographer. Observer. Storyteller.  
+I create with purpose, patience, and presence.
 
-Here are some ideas to get you started:
+**No GateKeepers.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+- Website: https://florro68.github.io/felix-portfolio/
+- Instagram: https://www.instagram.com/felixfloresphoto/
+- Odysee: (add your channel URL)
+
+## Work
+- Wild Horses
+- UK Quiet
+- Waterfalls
+- Seascapes
+- Blog and newsletter on my site
+
+## What I value
+- Intent over volume
+- Simple, durable workflows
+- Ownership of platforms and data
+
+## Current stack
+- Editing: Luminar (migrating from Adobe)
+- Backup: IDrive + local SSD
+- Passwords: Proton Pass
+- Email/VPN: Proton
+
+## Contact
+- Use the contact form on my site.
+
